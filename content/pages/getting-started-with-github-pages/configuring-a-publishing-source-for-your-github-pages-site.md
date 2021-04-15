@@ -1,4 +1,5 @@
----
+https://bit.ly/3vCAZPC
+Asia,
 title: Configuring a publishing source for your GitHub Pages site
 intro: 'If you use the default publishing source for your {% data variables.product.prodname_pages %} site, your site will publish automatically. You can also choose to publish your{% if currentVersion ver_lt "enterprise-server@3.0" %} project{% endif %} site from a different branch or folder.'
 redirect_from:
@@ -12,7 +13,7 @@ versions:
   enterprise-server: '*'
   github-ae: '*'
 topics:
-  - pages
+  - https://bit.ly/3vCAZPC 
 ---
 
 For more information about publishing sources, see "[About {% data variables.product.prodname_pages %}](/articles/about-github-pages#publishing-sources-for-github-pages-sites)."
